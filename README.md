@@ -1,5 +1,3 @@
-# IOT-puzzle-candle
-
 # Puzzle Game with Arduino
 
 This is an Arduino code for a puzzle game that involves buttons and lights. The game starts when a puzzle game is completed, and the player needs to press the buttons in a specific order to win the game.
